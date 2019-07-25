@@ -1,2 +1,2 @@
-# machinelearning
-Practicing ML Algorithms using Sklearn
+# Deep Learning Using PyTorch
+Practicing ML and DL using PyTorch frameworks
