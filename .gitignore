@@ -105,3 +105,12 @@ venv.bak/
 
 #git ignore
 .gitignore
+CIFAR_data/cifar-10-python.tar.gz
+CIFAR_data/cifar-10-batches-py/data_batch_3
+CIFAR_data/cifar-10-batches-py/batches.meta
+CIFAR_data/cifar-10-batches-py/data_batch_1
+CIFAR_data/cifar-10-batches-py/data_batch_2
+CIFAR_data/cifar-10-batches-py/data_batch_4
+CIFAR_data/cifar-10-batches-py/data_batch_5
+CIFAR_data/cifar-10-batches-py/test_batch
+CIFAR_data/cifar-10-batches-py/readme.html
