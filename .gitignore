@@ -114,3 +114,4 @@ CIFAR_data/cifar-10-batches-py/data_batch_4
 CIFAR_data/cifar-10-batches-py/data_batch_5
 CIFAR_data/cifar-10-batches-py/test_batch
 CIFAR_data/cifar-10-batches-py/readme.html
+.vscode/settings.json
