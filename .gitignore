@@ -115,3 +115,11 @@ CIFAR_data/cifar-10-batches-py/data_batch_5
 CIFAR_data/cifar-10-batches-py/test_batch
 CIFAR_data/cifar-10-batches-py/readme.html
 .vscode/settings.json
+DataSets/CIFAR_data/cifar-10-batches-py/batches.meta
+DataSets/CIFAR_data/cifar-10-python.tar.gz
+DataSets/CIFAR_data/cifar-10-batches-py/data_batch_1
+DataSets/CIFAR_data/cifar-10-batches-py/data_batch_2
+DataSets/CIFAR_data/cifar-10-batches-py/data_batch_3
+DataSets/CIFAR_data/cifar-10-batches-py/data_batch_4
+DataSets/CIFAR_data/cifar-10-batches-py/data_batch_5
+DataSets/CIFAR_data/cifar-10-batches-py/test_batch
